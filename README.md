@@ -1,5 +1,5 @@
 # firefox-ChromeFolder-hacks
-A personal collection of CSS modifications to the Firefox web Browser. Many elements are still under development/modernization.
+A personal collection of CSS modifications to the Firefox web Browser. Many elements are still under development/modernization. Design langauge healivy utilizes an appealing copper orange (#c87553) on dark background theme.
 
 ![header](https://i.imgur.com/yU2lHO5.png)
 
