@@ -39,7 +39,7 @@ In short, create a parent chrome folder to the same directory where `prefs.js` i
 
 Watch this tutorial on how to set the extentions/config that I use.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgO-0p64OMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/SgO-0p64OMQ/0.jpg)](http://www.youtube.com/watch?v=SgO-0p64OMQ "Firefox Customization")
  
 # Credit to the following projects:
 
