@@ -1,5 +1,7 @@
 # firefox-ChromeFolder-hacks
-A personal collection of CSS modifications to the Firefox web Browser.
+A personal collection of CSS modifications to the Firefox web Browser. Many elements are still under development/modernization.
+
+![header](https://i.imgur.com/yU2lHO5.png)
 
 # Loading user*.css files
 
