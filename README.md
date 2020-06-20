@@ -35,4 +35,5 @@ In short, create a parent chrome folder to the same directory where `prefs.js` i
 # Credit to the following projects:
 
 **Shadowfox Theme** - https://github.com/overdodactyl/ShadowFox (this is kind of a 'soft fork' of shadowfox)
+
 **CSS-Hacks** - https://github.com/MrOtherGuy/firefox-csshacks
