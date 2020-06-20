@@ -31,8 +31,15 @@ In short, create a parent chrome folder to the same directory where `prefs.js` i
 
 ## Customization
 
+**the bars are at the bottom reeeeeeeeeeeeeeee**
  Its easy to customize the background and accent colors. Just edit the hex values in `ShadowFox_customization/colorOverrides.css`
- To Customize the various elements, remove or add the relevent code at the end of the `userChrome.css` file. Reading the comments are  your friend. Google-fu and searching https://old.reddit.com/r/FirefoxCSS/ will help.
+ To Customize the various elements, remove or add the relevent code at the end of the `userChrome.css` file. Reading the comments are  your friend. Google-fu and searching https://old.reddit.com/r/FirefoxCSS/ will help. 
+
+# Profile Configuration
+
+Watch this tutorial on how to set the extentions/config that I use.
+
+[![Watch the video](https://i.imgur.com/ca2lMDu.png)](https://www.youtube.com/watch?v=SgO-0p64OMQ)
  
 # Credit to the following projects:
 
